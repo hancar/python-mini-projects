@@ -188,6 +188,21 @@ class MyBot(Wechaty):
                 eg: hello text, friend contact object
         """
         MAX_ROOM_MEMBER_COUNT = 500
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
+        pass
         # 1. receive a new friendship from someone
         if friendship.type() == FriendshipType.FRIENDSHIP_TYPE_RECEIVE:
             hello_text: str = friendship.hello()
